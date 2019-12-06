@@ -55,3 +55,5 @@ typings
 storybook-static
 docs/storybook-material
 docs/storybook-bootstrap
+
+package-lock.json
